@@ -1,0 +1,15 @@
+				ReactJS				NextJS
+Loại:              	-Thư viện Javascript		   -Thư viện React
+Mục đích sử dụng	-Xây dựng giao diện người dùng	   -Phát triển ứng dụng
+Quản lý dữ liệu	        -Quản lý trạng thái cục bộ	   -Có sẵn phương pháp lấy dữ
+			hoặc dùng công cụ bổ sung	   liệu 
+Điều hướng		Cần thư viện bên ngoài		   Dựa trên hệ thống file có sẵn
+			(VD: ReactRouter)
+Khả năng mở rộng	-Mở rộng tốt với tối ưu hóa	   -Tự động xử lý mở rộng
+			thủ công
+Tự do cho nhà phát	-Cao				    -Có giới hạn
+triển
+Sử dụng tốt nhất cho	-Ứng dụng tương tác cao		    -Ứng dụng vừa đến lớn
+
+=>Sử dụng React khi cần cách phát triển linh hoạt, xây dụng giao diện người dùng có tính tương tác cao
+  Sử dụng NextJS để xây dựng các ứng dụng như website TMĐT, website có nội dung nhiều, phong phú
